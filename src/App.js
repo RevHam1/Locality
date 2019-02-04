@@ -3,7 +3,6 @@ import "./App.css";
 import SearchBar from "./components/SearchBar/SearchBar";
 import BusinessList from "./components/BusinessList/BusinessList";
 import Yelp from "../src/util/Yelp";
-
 // const business = {
 //   imageSrc:
 //     "https://s3.amazonaws.com/codecademy-content/programs/react/ravenous/pizza.jpg",

@@ -12,7 +12,8 @@
   display: flex;
   justify-content: center;
   margin-bottom: 2.22rem;
-  color: #f8a704;
+  /* color: #f8a704; */
+  color: orangered;
 }
 
 .SearchBar-sort-options li {
@@ -34,7 +35,9 @@
 .SearchBar-sort-options li.active,
 .SearchBar-sort-options li.active:hover {
   border-bottom: 1px solid #f0c36c;
-  color: orangered;
+  color: yellow;
+  border-radius: 8px;
+  background-color: #cca353;
 }
 
 .SearchBar-fields {
